@@ -1,1 +1,1 @@
-# csc412-s25-assignments
+# csc412-assignments-labs-template
